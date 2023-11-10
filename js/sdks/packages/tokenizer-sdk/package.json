@@ -33,7 +33,7 @@
     "@lunasec/browser-common": "^1.0.7",
     "@lunasec/isomorphic-common": "^1.0.7",
     "@lunasec/server-common": "^1.0.7",
-    "axios": "^0.21.1"
+    "axios": "^1.6.0"
   },
   "gitHead": "d0cb89ff028ea0c24cdfa0225874a838006b8c89"
 }
